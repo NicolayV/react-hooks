@@ -1,5 +1,11 @@
+import Hover from "./components/Hover";
+
 function App() {
-  return <div>jhsgjhsdcbjds</div>;
+  return (
+    <div>
+      <Hover />
+    </div>
+  );
 }
 
 export default App;
